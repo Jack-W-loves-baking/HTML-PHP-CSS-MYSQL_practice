@@ -1,0 +1,96 @@
+body.main{
+    background-color: lightgrey; 
+    
+}
+
+
+#container {
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+
+div.a{
+
+    text-align: right;
+
+}
+
+div.mainPageWords {
+    position: absolute; 
+    top:20px;
+    
+}
+  
+div.mainPageImg {
+    background-color: red;
+    position: absolute; 
+    height:500px;
+    background-size: cover;
+    
+}
+
+
+form.poststatusform{
+   width:120%;
+   height:80%;
+    padding: 20px;
+    border:1px solid black;
+}
+
+h1.main{
+    color:white;
+   
+    
+}
+
+
+label{
+
+    color: black;
+    font-size: 15px;
+    font-family: helvetica;
+}
+
+label.a{
+
+    font-size: 15px;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+
+p{
+    color: black;
+    font-size: 15px;
+    font-family: helvetica;
+}
+
+p.declare{
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+    word-wrap: break-word;
+}
+
+p.question{
+    color: black;
+    font-size: 16px;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+p.answer{
+    color: red;    
+    font-size: 16px;
+    word-wrap: break-word;
+}
+
+
+.textInput{
+
+    border:1px solid black; 
+    padding: 5px;
+}
+
